@@ -2,7 +2,7 @@
 
 An intelligent, rule-based agent that automates contact discovery and outreach. This tool efficiently finds emails and phone numbers from official websites and social media, with built-in cost controls and automated email capabilities.
 
-![Contact Finder Agent Demo](https://github.com/user-attachments/assets/717cc3a2-5ac8-48a9-9c69-57233b952879) <!-- It's highly recommended to add a GIF of your script running here -->
+![Contact Finder Agent Demo](https://github.com/user-attachments/assets/bba1be29-0f4b-443a-9e4e-bc7de1d474d2) <!-- It's highly recommended to add a GIF of your script running here -->
 
 ## ✨ Key Features
 
